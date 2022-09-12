@@ -20,6 +20,10 @@ $ git init
 - [x] И тут галка
 - [ ] А тут галки нет
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 <!--
   <<< Author notes: Start of the course >>>
   Include start button, a note about Actions minutes,
