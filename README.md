@@ -16,9 +16,9 @@ $ git init
 Инициализирует пустой репозиторий Git в /Users/skills/Projects/recipe-repository/.git/ 
 ```
 
-- [x] List syntax is required
-- [x] This item is complete
-- [ ] This item is not complete
+- [x] Здесь галка
+- [x] И тут галка
+- [ ] А тут галки нет
 
 <!--
   <<< Author notes: Start of the course >>>
