@@ -5,7 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Я жопа
+# IT or idk im not a programmer
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
